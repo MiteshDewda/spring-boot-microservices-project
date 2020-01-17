@@ -1,1 +1,1 @@
-s This is a demo SpringBoot project that shows communication between microservices
+This is a demo SpringBoot project that shows communication between microservices
