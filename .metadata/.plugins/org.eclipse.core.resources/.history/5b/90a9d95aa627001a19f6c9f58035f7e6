@@ -1,0 +1,21 @@
+package io.mitesh.springbootstarter.hello;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TopicService 
+{
+	private TopicRepository topicRepository;
+	
+	public List<Topic> getAllTopics()
+	{
+		//return Topics
+		List<Topic> topics = new ArrayList<>();
+		topicRepository.findAll()
+		.forEach(topics::add);
+		return topics;
+	}
+}

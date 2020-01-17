@@ -1,0 +1,7 @@
+package io.mitesh.moviecatalogservice.resources;
+
+@RestController
+public class MovieCatalogResource 
+{
+	
+}

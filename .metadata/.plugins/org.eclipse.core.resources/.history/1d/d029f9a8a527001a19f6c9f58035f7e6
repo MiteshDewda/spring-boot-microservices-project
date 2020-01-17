@@ -1,0 +1,6 @@
+package io.mitesh.springbootstarter.hello;
+
+public interface TopicRepository extends CrudRepository<>
+{
+	
+}

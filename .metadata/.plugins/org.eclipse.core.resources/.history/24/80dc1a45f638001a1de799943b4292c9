@@ -1,0 +1,14 @@
+package com.example.movieinfoservice.resources;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.movieinfoservice.Movie;
+
+@RestController
+public class MovieResource 
+{
+	public Movie getMovieInfo()
+	{
+		
+	}
+}
