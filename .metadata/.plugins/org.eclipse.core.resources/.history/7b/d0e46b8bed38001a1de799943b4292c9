@@ -1,5 +1,0 @@
-package io.mitesh.moviecatalogservice.resources;
-
-public class MovieCatalogResource {
-
-}

@@ -23,4 +23,17 @@
 		<item key="create_constructor" value="false"/>
 		<item key="create_unimplemented" value="true"/>
 	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="F:\SpringToolSuite_Workspace"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="CourseApiApp - course-api"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="course-api\target\CourseApi.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="course-api/target/CourseApi.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value=".xml"/>
+		</list>
+	</section>
 </section>
